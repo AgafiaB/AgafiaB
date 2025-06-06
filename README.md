@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AgafiaB
-- 👀 I’m interested in: the environmental applications of machine learning. 
+- 👀 I’m interested in: the environmental and medical applications of machine learning. 
 - 🌱 I’m currently learning:  Python, neural networks, data structures, linear algebra
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me  
